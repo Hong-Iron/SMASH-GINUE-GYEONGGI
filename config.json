@@ -1,0 +1,69 @@
+{
+  "code": "GINUE-GYEONGGI",
+  "title": "SMASH GINUE GYEONGGI",
+  "school": "경인교대",
+  "fullName": "경인교육대학교",
+  "campusName": "경인교육대학교 경기캠퍼스",
+  "tagline": "경인교대를 부셔 (시험기간 스트레스 해소)",
+  "description": "경인교육대학교 경기캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 경인교육대학교 경기캠퍼스 3D 화면과 SMASH GINUE GYEONGGI 제목",
+  "url": "https://hong-iron.github.io/SMASH-GINUE-GYEONGGI/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 314876681
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "골프학습장": {
+      "style": "stone",
+      "wall": "#8f8a92",
+      "glass": "#3a4a48",
+      "frame": "#6c686e"
+    },
+    "체육관": {
+      "style": "brick",
+      "wall": "#c69c86",
+      "glass": "#4a5559",
+      "frame": "#cfd3ce"
+    },
+    "교사교육센터": {
+      "style": "ribbon",
+      "wall": "#d4dcde",
+      "glass": "#3f6068",
+      "frame": "#b5c0c6"
+    },
+    "학생회관": {
+      "style": "ribbon",
+      "wall": "#bc6a5a",
+      "glass": "#4f6a80",
+      "frame": "#e8ecee"
+    },
+    "음악관": {
+      "style": "ribbon",
+      "wall": "#d9dcdc",
+      "glass": "#4f7d78",
+      "frame": "#b8bcbc"
+    },
+    "예림생활관": {
+      "style": "dorm",
+      "wall": "#ddb796",
+      "glass": "#4f8a8a",
+      "frame": "#f2f0ec"
+    },
+    "기숙사": {
+      "style": "dorm",
+      "wall": "#b2bccb",
+      "glass": "#3d4a60",
+      "frame": "#f1efec"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
