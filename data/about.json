@@ -1,0 +1,34 @@
+{
+ "region": "경기 안양시 만안구",
+ "nameEn": "Gyeongin National University of Education Gyeonggi Campus",
+ "added": "2026-11-01T02:27",
+ "rank": 229,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "DAELIM",
+   "campus": "대림대학교",
+   "km": 3.5
+  },
+  {
+   "code": "YEONSUNG",
+   "campus": "연성대학교",
+   "km": 4.1
+  },
+  {
+   "code": "SNU",
+   "campus": "서울대학교 관악캠퍼스",
+   "km": 4.3
+  },
+  {
+   "code": "ANYANG",
+   "campus": "안양대학교 안양캠퍼스",
+   "km": 4.7
+  },
+  {
+   "code": "SUNGKYUL",
+   "campus": "성결대학교",
+   "km": 6.0
+  }
+ ]
+}
